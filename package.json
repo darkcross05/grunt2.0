@@ -1,0 +1,25 @@
+{
+  "name": "grunt2.0",
+  "version": "1.0.0",
+  "description": "example",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darkcross05/grunt2.0.git"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Juan Pablo Mariaca S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darkcross05/grunt2.0/issues"
+  },
+  "homepage": "https://github.com/darkcross05/grunt2.0#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  }
+}
